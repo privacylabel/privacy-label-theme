@@ -1,30 +1,18 @@
-# New World
+# Privacy Label theme
 
-New World is the Default Microweber template website prepared for online stores. Fully responsive, clean and modern design. 
+This is the Microweber theme for the PrivacyLabel.org website:
+https://www.privacylabel.org
 
-## Features:
+It is based on the New World theme, with custom content type expansions and visual design updates.
 
-* 20 Dynamic Layouts
-* Sticky Menu
-* Galleries
-* Color Schemes 
-* Instagram Module
-* Paralax Effects
-* Testimonials Module
-* Reservation Form
-* Social Modules
-* Pricing Tables
-* Pixel Perfect Design
-* Blog Posts
-* Creative Design
-* Fully Responsive
-* Cross Browser Support
-* Easy to Customize
-* SEO Optimized
-* Over 2000 icons
-* Well Documented
-* Free Lifetime Updates
-* Custom Support 
-* Bootstrap 4 based
+## Illustrations
+The illustrations used in the theme were created by Martijn Veenstra. They are placed in a separate folder, and you can upload theme wherever you need them. You are allowed to use these illustrations with the theme, but you are not allowed to modify them further.
 
-![features.jpg](./readme_assets/features.jpg "")
+![boats_on_a_line.png](./illustrations/boats_on_a_line.png "")
+
+
+## CMS
+The Microweber CMS that we use has been slightly modified to make it more privacy friendly, but this shouldn't have affected the theme in any way. You can find out more about Microweber here:
+https://www.microweber.org
+
+
