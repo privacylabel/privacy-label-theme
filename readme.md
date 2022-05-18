@@ -6,7 +6,7 @@ https://www.privacylabel.org
 It is based on the New World theme, with custom content type expansions and visual design updates.
 
 ## Illustrations
-The illustrations used in the theme were created by Martijn Veenstra. They are placed in a separate folder, and you can upload theme wherever you need them. You are allowed to use these illustrations with the theme, but you are not allowed to modify them further.
+The illustrations used in the theme were created by Martijn Veenstra. They are placed in a separate repository. The illustrations are a perfect compantion to the theme, but you are not allowed to modify them further.
 
 ![boats_on_a_line.png](./illustrations/boats_on_a_line.png "")
 
